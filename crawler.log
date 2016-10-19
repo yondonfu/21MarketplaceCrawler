@@ -1,0 +1,72 @@
+10-19 21:16 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:16 root         INFO     Crawler start timestamp: 2016-10-19 21:16:40.377996
+
+10-19 21:16 root         INFO     Total pages: 9
+10-19 21:16 root         INFO     Parsing page: 1
+10-19 21:16 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:16 root         INFO     Parsing page: 2
+10-19 21:16 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:16 root         INFO     Parsing page: 3
+10-19 21:16 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:16 root         INFO     Parsing page: 4
+10-19 21:16 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:16 root         INFO     Parsing page: 5
+10-19 21:16 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:16 root         INFO     Parsing page: 6
+10-19 21:16 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:16 root         INFO     Found app endpoint: https://mkt.21.co/petzov/hello-world--tropical-rain-forest
+10-19 21:16 root         INFO     Found app endpoint: https://mkt.21.co/petzov/hello-world--shadow
+10-19 21:16 root         INFO     Parsing page: 7
+10-19 21:16 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:16 root         INFO     Parsing page: 8
+10-19 21:16 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:16 root         INFO     Crawler end timestamp: 2016-10-19 21:16:44.571271
+
+10-19 21:18 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:18 root         INFO     Crawler start timestamp: 2016-10-19 21:18:20.905161
+
+10-19 21:18 root         INFO     Total pages: 9
+10-19 21:18 root         INFO     Parsing page: 1
+10-19 21:18 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:18 root         INFO     Parsing page: 2
+10-19 21:18 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:18 root         INFO     Parsing page: 3
+10-19 21:18 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:18 root         INFO     Parsing page: 4
+10-19 21:18 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:18 root         INFO     Parsing page: 5
+10-19 21:18 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:18 root         INFO     Parsing page: 6
+10-19 21:18 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:18 root         INFO     Found app endpoint: https://mkt.21.co/petzov/hello-world--tropical-rain-forest
+10-19 21:18 root         INFO     Found app endpoint: https://mkt.21.co/petzov/hello-world--shadow
+10-19 21:18 root         INFO     Parsing page: 7
+10-19 21:18 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:18 root         INFO     Parsing page: 8
+10-19 21:18 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:18 root         INFO     Crawler end timestamp: 2016-10-19 21:18:24.949544
+
+10-19 21:20 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:20 root         INFO     Crawler start timestamp: 2016-10-19 21:20:21.045004
+
+10-19 21:20 root         INFO     Total pages: 9
+10-19 21:20 root         INFO     Parsing page: 1
+10-19 21:20 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:20 root         INFO     Parsing page: 2
+10-19 21:20 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:20 root         INFO     Parsing page: 3
+10-19 21:20 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:20 root         INFO     Parsing page: 4
+10-19 21:20 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:20 root         INFO     Parsing page: 5
+10-19 21:20 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:20 root         INFO     Parsing page: 6
+10-19 21:20 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:20 root         INFO     Found app endpoint: https://mkt.21.co/petzov/hello-world--tropical-rain-forest
+10-19 21:20 root         INFO     Found app endpoint: https://mkt.21.co/petzov/hello-world--shadow
+10-19 21:20 root         INFO     Parsing page: 7
+10-19 21:20 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:20 root         INFO     Parsing page: 8
+10-19 21:20 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): api.21.co
+10-19 21:20 root         INFO     Crawler end timestamp: 2016-10-19 21:20:24.673124
+
